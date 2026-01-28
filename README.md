@@ -8,7 +8,8 @@ and behavioral signals — without targeting individuals.
 
 ##  Architecture
 
-![Dashboard](data/Sentinal Ai Architecture.jpeg)
+![Sentinel AI Architecture](data/sentinel-ai-architecture.jpeg)
+
 
 
 
