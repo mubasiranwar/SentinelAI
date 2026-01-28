@@ -4,7 +4,13 @@
 coordinated misinformation narratives using sentiment analysis, narrative repetition,
 and behavioral signals — without targeting individuals.
 
----
+
+
+##  Architecture
+
+![Dashboard](data/Sentinal Ai Architecture.jpeg)
+
+
 
 ## 🚀 Features
 - Sentiment & emotion analysis
@@ -15,9 +21,6 @@ and behavioral signals — without targeting individuals.
 - Privacy-first and ethical AI design
 
 
-```
-
----
 
 ## 🛠️ Installation
 
